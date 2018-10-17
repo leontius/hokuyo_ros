@@ -1,0 +1,2 @@
+dynamixel_motor-master/dynamixel_controllers:dynamixel_motor-master/dynamixel_driver:dynamixel_motor-master/dynamixel_motor:dynamixel_motor-master/dynamixel_msgs:dynamixel_motor-master/dynamixel_tutorials:laser_assembler-hydro-devel:laser_proc-indigo-devel:perception_pcl-kinetic-devel/pcl_ros:perception_pcl-kinetic-devel/perception_pcl:spin_hokuyo-master:urg_c-master:urg_node-indigo-devel
+-DCATKIN_DEVEL_PREFIX=/home/leon/Documents/spin-hokuyo_ws/devel -DCMAKE_INSTALL_PREFIX=/home/leon/Documents/spin-hokuyo_ws/install -G Unix Makefiles

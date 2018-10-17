@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/get_distance.dir/current/samples/get_distance.c.o  -o /home/leon/Documents/spin-hokuyo_ws/devel/lib/urg_c/get_distance -rdynamic /home/leon/Documents/spin-hokuyo_ws/devel/lib/libopen_urg_sensor.so /home/leon/Documents/spin-hokuyo_ws/devel/lib/libliburg_c.so -lrt -lm -Wl,-rpath,/home/leon/Documents/spin-hokuyo_ws/devel/lib: 
