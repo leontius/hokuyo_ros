@@ -1,6 +1,7 @@
 # hokuyo_ros
 
 workdir: /home/spin-hokuyo_ws
+volumes: /data
 
 #### docker-compose startup
 ``` shell
